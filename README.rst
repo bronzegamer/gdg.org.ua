@@ -170,3 +170,5 @@ If you see any wheel-related error output, you may want to avoid it by using
 
     $ make activate-env
     [gdg.org.ua][py3.5] $ pip install coverage --no-use-wheel
+
+#Thank You
